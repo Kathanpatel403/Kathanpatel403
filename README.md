@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Concepts of MLOps and Advanced Deep Learning concepts.**
 
-- 👨‍💻 All of my projects are available at [https://kathan-portfolio.vercel.app/](https://kathan-portfolio.vercel.app/)
 
 - 💬 Ask me about **Tensorflow, PyTorch, Keras, Docker, Kubernetes,**
 
