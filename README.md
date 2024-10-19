@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kathanpatel403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1znTHnq8YOm3EAXGLIj1OzgJ5ZKoJqbRS/view?usp=sharing](https://drive.google.com/file/d/1znTHnq8YOm3EAXGLIj1OzgJ5ZKoJqbRS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dzD2KO_CyJcnXtKeNK_W9mbwnCseq6pu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
