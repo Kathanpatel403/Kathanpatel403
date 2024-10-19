@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kathan Patel</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
 
-- 🌱 I’m currently learning **Concepts of MLOps and Advanced Deep Learning concepts.**
+- 🌱 I’m currently learning **Concepts of MLOps and Advanced Deep Learning.**
 
 
 - 💬 Ask me about **Tensorflow, PyTorch, Keras, Docker, Kubernetes,**
