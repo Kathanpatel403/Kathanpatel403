@@ -83,9 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathanpatel403&layout=compact&theme=radical&background-type=gradient" alt="Top Languages" />
 </p>
 
-<p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathanpatel403&theme=radical&background-type=gradient" alt="kathanPatel403" />
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathanpatel403&theme=radical&background-type=gradient&" alt="GitHub Streak Stats" /></p>
 
 
 ## Connect with Me 🤝
