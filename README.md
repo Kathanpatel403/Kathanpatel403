@@ -4,22 +4,24 @@
 
 ## About Me 🚀
 
-👋 Hi, I'm a final-year Computer Engineering student at LDRP Institute of Technology and Research, specializing in Full Stack Development, Machine Learning, and Deep Learning. 🚀
-
-- 🎓 Education: Final-year Computer Engineering student at LDRP Institute of Technology and Research (LDRP-ITR)
-- 🤖 Interests: Enthusiast in AI, Machine Learning, and Deep Learning
-- 🖼️ Specialization: Exploring Image Processing and Computer Vision
-- 🌐 Development: Building expertise in Web and Mobile Development
-- ☁️ DevOps & MlOps: Skilled in Docker, Kubernetes, AWS, and Jenkins for seamless deployments and CI/CD workflows
+👋 Hi, I'm Kathan Patel, a Software Engineer at OpenXcell Technolabs, passionate about building intelligent and scalable digital solutions that merge AI and Backend Development.
+- 💼 Current Role: Software Engineer at OpenXcell Technolabs
+- 🎓 Education: Completed B.E. in Computer Engineering from LDRP Institute of Technology and Research
+- 🤖 Core Interests: Artificial Intelligence, Machine Learning, and Deep Learning
+- 🧠 Focus Areas: Computer Vision, Image Processing, and Predictive Modeling
+- 💻 Development Expertise: Full Stack Development using React, Django, and Flask
+- ☁️ DevOps & MLOps: Proficient with Docker, Kubernetes, AWS, and Jenkins for CI/CD and production deployments
+- 🏗️ Project Experience: Experienced in developing AI-powered applications, real-time systems, and end-to-end ML pipelines
 
 
 ## 💼 Professional Experience  
 
 **Associate Software Engineer**  
 *Openxcell - AI Development Company*  
-- Developing efficient backend systems using Django, FastAPI, and Flask.  
-- Crafting interactive frontend applications with React.  
-- Managing PostgreSQL databases for high-performance data storage and retrieval.  
+- Developing efficient and scalable backend systems using Django, FastAPI, and Flask.
+- Integrated Retrieval-Augmented Generation (RAG) pipelines for intelligent AI-driven applications.
+- Implemented payment gateway and in app subscription integration for a subscription management system.
+- Managing PostgreSQL databases for optimized data storage and retrieval.
 
 **Machine Learning Engineer Intern**  
 *CoreFragment Technologies*  
@@ -79,7 +81,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55" />
 </p>
 
 
